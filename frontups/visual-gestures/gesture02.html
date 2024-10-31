@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gesture Demo</title>
+</head>
+<body>
+    <h1><b>Gesture Recognition Demo</b></h1>
+    <button id="gestureButton">Click Me</button>
+
+    <script type="module">
+        import createGestureModel from 'https://cdn.jsdelivr.net/npm/@learn-hunger/visual-gestures@0.0.3/dist/index.js';
+
+        // Initialize the gesture model
+        const gestureModel = createGestureModel();
+
+        // Function to handle gesture events
+        function handleGesture(event) {
+            console.log(`Gesture detected: ${event.type}`);
+        }
+
+        // Add event listeners for grab and click gestures
+        gestureModel.on('grab', handleGesture);
+        gestureModel.on('click', handleGesture);
+
+        // Add a click event listener to the button
+        document.getElementById('gestureButton').addEventListener('click', () => {
+            console.log('Button clicked!');
+        });
+    </script>
+</body>
+</html>

@@ -4,9 +4,13 @@ Nagendra and Boddu example.
 
 [https://pvscreations.github.io/sample-demo/visual-gestures.html#debug](https://pvscreations.github.io/sample-demo/visual-gestures.html#debug)
 
+and github 
+
+[https://github.com/pvscreations/sample-demo](https://github.com/pvscreations/sample-demo)
 
 
-my examples 
+
+my examples in the above folder
 
 
 

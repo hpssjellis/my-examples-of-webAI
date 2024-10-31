@@ -26,7 +26,10 @@ but presently using mediapipe or just doing it fropm scratch using handpose.
 
 New stuff will have this link
 
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/pick19.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture01.html)
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture01.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture01.html)
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture02.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture02.html)
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture03.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture03.html)
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html)
 
 
 

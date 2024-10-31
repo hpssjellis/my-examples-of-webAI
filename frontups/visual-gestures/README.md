@@ -13,6 +13,13 @@ and github
 my examples in the above folder
 
 
+This code is what I would like working  
+
+``` import createGestureModel from 'https://cdn.jsdelivr.net/npm/@learn-hunger/visual-gestures@0.0.3/dist/index.js';```
+
+but presently using mediapipe or just doing it fropm scratch using handpose.
+
+
 
 [https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/pick19.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/pick19.html)
 

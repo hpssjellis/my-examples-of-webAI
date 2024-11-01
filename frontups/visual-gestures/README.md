@@ -36,15 +36,15 @@ New stuff will have this link
 
 
 
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture05.html)  
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture05.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture05.html)  
 
 
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture06.html)  
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture06.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture06.html)  
 
 
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture07.html)  
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture07.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture07.html)  
 
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture08.html)  
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture08.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture08.html)  
 
 
 

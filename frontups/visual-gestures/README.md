@@ -61,5 +61,19 @@ New stuff will have this link
 [https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand05.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand05.html)   
 
 
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand06.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand06.html)   
+
+
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand07.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand07.html)   
+
+
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand08.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand08.html)   
+
+
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand09.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand09.html)   
+
 
 

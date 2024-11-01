@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Handpose Simplified</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            width: 100%;
+            height: 100%;
+        }
+        #output {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            transform: scaleX(-1);
+        }
+        #switch-camera {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1;
+        }
+        b {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-core@1.7.4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-converter@1.7.4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/handpose@0.0.4"></script>
+</head>
+<body>
+    <video id="video" playsinline style="display: none;"></video>
+    <canvas id="output"></canvas>
+    <button id="switch-camera">Switch Camera</button>
+    <b onclick="console.log('hi')">Hello</b>
+    <script>
+        let currentStream;
+        let isFrontCamera = true;
+
+        async function setupCamera() {
+            const video = document.getElementById('video');
+            if (currentStream) {
+                currentStream.getTracks().forEach(track => track.stop());
+            }
+            const constraints = {
+                video: {
+                    width: 640,
+                    height: 480,
+                    facingMode: isFrontCamera ? 'user' : 'environment'
+                }
+            };
+            currentStream = await navigator.mediaDevices.getUserMedia(constraints);
+            video.srcObject = currentStream;
+            return new Promise((resolve) => {
+                video.onloadedmetadata = () => {
+                    resolve(video);
+                };
+            });
+        }
+
+        document.getElementById('switch-camera').addEventListener('click', async () => {
+            isFrontCamera = !isFrontCamera;
+            await setupCamera();
+        });
+
+        async function main() {
+            const video = await setupCamera();
+            video.play();
+            const model = await handpose.load();
+            const canvas = document.getElementById('output');
+            const ctx = canvas.getContext('2d');
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+            setInterval(async () => {
+                const predictions = await model.estimateHands(video);
+                if (predictions.length > 0) {
+                    console.log(predictions[0]);
+                }
+            }, 5000);
+            function drawHand(predictions) {
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                if (predictions.length > 0) {
+                    const landmarks = predictions[0].landmarks;
+                    ctx.fillStyle = 'red';
+                    for (let i = 0; i < landmarks.length; i++) {
+                        const [x, y] = landmarks[i];
+                        ctx.beginPath();
+                        ctx.arc(x, y, 5, 0, 2 * Math.PI);
+                        ctx.fill();
+                    }
+                }
+            }
+            async function render() {
+                const predictions = await model.estimateHands(video);
+                drawHand(predictions);
+                requestAnimationFrame(render);
+            }
+            render();
+        }
+
+        main();
+    </script>
+</body>
+</html>

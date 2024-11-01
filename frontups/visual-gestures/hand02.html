@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Handpose Simplified</title>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-core@1.7.4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-converter@1.7.4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/handpose@0.0.4"></script>
+</head>
+<body>
+    <video id="video" playsinline style="display: none;"></video>
+    <canvas id="output"></canvas>
+
+    <script>
+        async function setupCamera() {
+            const video = document.getElementById('video');
+            const stream = await navigator.mediaDevices.getUserMedia({
+                video: { width: 640, height: 480 }
+            });
+            video.srcObject = stream;
+            return new Promise((resolve) => {
+                video.onloadedmetadata = () => {
+                    resolve(video);
+                };
+            });
+        }
+
+        async function main() {
+            const video = await setupCamera();
+            video.play();
+
+            const model = await handpose.load();
+            const canvas = document.getElementById('output');
+            const ctx = canvas.getContext('2d');
+            canvas.width = video.videoWidth;
+            canvas.height = video.videoHeight;
+
+            setInterval(async () => {
+                const predictions = await model.estimateHands(video);
+                if (predictions.length > 0) {
+                    console.log(predictions[0]);
+                }
+            }, 5000);
+
+            function drawHand(predictions) {
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                if (predictions.length > 0) {
+                    const landmarks = predictions[0].landmarks;
+                    ctx.fillStyle = 'red';
+                    for (let i = 0; i < landmarks.length; i++) {
+                        const [x, y] = landmarks[i];
+                        ctx.beginPath();
+                        ctx.arc(x, y, 5, 0, 2 * Math.PI);
+                        ctx.fill();
+                    }
+                }
+            }
+
+            async function render() {
+                const predictions = await model.estimateHands(video);
+                drawHand(predictions);
+                requestAnimationFrame(render);
+            }
+
+            render();
+        }
+
+        main();
+    </script>
+</body>
+</html>

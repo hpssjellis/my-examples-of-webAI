@@ -32,7 +32,7 @@ New stuff will have this link
 
 [https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture03.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture03.html)   some changes
 
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html)   back to old version of tfjs
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html)   Not really working
 
 
 
@@ -56,16 +56,16 @@ New stuff will have this link
 
 [https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand03.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand03.html)   updated TFJS versions but not working. going back to old versions
 
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand04.html)   try a few fixes
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand04.html)   This kind of works
 
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand05.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand05.html)   
-
-
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand06.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand06.html)   
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand05.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand05.html)   bad
 
 
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand06.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand06.html)   bad
 
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand07.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand07.html)   
+
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand07.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand07.html)   back to hand04.html and making changes. read camera not working on android
 
 
 

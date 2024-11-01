@@ -37,3 +37,18 @@ New stuff will have this link
 
 
 
+## Hand from the old method
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand01.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand01.html)   oeginal 2019 handpose
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand02.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand02.html)     striped down version of the above
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand03.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand03.html)   
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand04.html)   
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand05.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand05.html)   
+
+
+
+

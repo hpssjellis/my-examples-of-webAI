@@ -43,7 +43,7 @@ New stuff will have this link
 
 [https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand02.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand02.html)     striped down version of the above
 
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand03.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand03.html)   updated TFJS versions . big error
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand03.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand03.html)   updated TFJS versions but not working. going back to old versions
 
 [https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand04.html)   try a few fixes
 

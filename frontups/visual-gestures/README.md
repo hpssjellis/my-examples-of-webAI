@@ -30,10 +30,21 @@ New stuff will have this link
 
 [https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture02.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture02.html)   just tried
 
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture03.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture03.html)   
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture03.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture03.html)   some changes
 
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html)   
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html)   back to old version of tfjs
 
+
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture05.html)  
+
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture06.html)  
+
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture07.html)  
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture08.html)  
 
 
 

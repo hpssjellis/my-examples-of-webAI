@@ -24,31 +24,10 @@ but presently using mediapipe or just doing it fropm scratch using handpose.
 [https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/pick19.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/pick19.html)
 
 
-New stuff will have this link
-
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture01.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture01.html)  basic idea just not working 
-
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture02.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture02.html)   just tried
-
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture03.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture03.html)   some changes
-
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html)   Not really working
 
 
 
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture05.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture05.html)  
-
-
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture06.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture06.html)  
-
-
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture07.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture07.html)  
-
-[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture08.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture08.html)  
-
-
-
-## Hand from the old method
+## Hand from the old method using TensorflowJS
 
 [https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand01.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand01.html)   orginal 2019 handpose
 
@@ -76,4 +55,28 @@ New stuff will have this link
 [https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand09.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/hand09.html)   
 
 
+
+
+
+New stuff will have this link using visual-gestures.
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture01.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture01.html)  basic idea just not working 
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture02.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture02.html)   just tried
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture03.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture03.html)   some changes
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture04.html)   Not really working
+
+
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture05.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture05.html)  
+
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture06.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture06.html)  
+
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture07.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture07.html)  
+
+[https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture08.html](https://hpssjellis.github.io/my-examples-of-webAI/frontups/visual-gestures/gesture08.html)  
 

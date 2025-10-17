@@ -16,8 +16,7 @@ The github for this page is at    <a href="https://github.com/hpssjellis/my-exam
    <li><a href="https://hpssjellis.github.io/my-examples-of-webAI/f-sounds.html"> f-sounds.html </a>Fairly raw sounds. Train "Right", "Left" and background with minimal sounds. Can change the labels to anything. Watch the slider react to the sounds.</li>
 
 
-   <li> Now try this prompt in your favorite LLM such as chatGPT. If it doesn't work check out the following code from chatGPT <a href="https://hpssjellis.github.io/my-examples-of-webAI/z-mobilenet-chatgpt.html">z-mobilenet-chatgpt.html</a> or from copilot. They are very simlar <a href="https://hpssjellis.github.io/my-examples-of-webAI/z-mobilenet-copilot.html">z-mobilenet-copilot.html</a> <br>
-</li>
+
 </ol>
 <br>
 
@@ -60,7 +59,9 @@ The youtube playlist link is at
 
 
 
+### prompt for ChatGPT or some other LLM   
 
+Now try this prompt in your favorite LLM such as chatGPT. If it doesn't work check out the following code from chatGPT <a href="https://hpssjellis.github.io/my-examples-of-webAI/z-mobilenet-chatgpt.html">z-mobilenet-chatgpt.html</a> or from copilot. They are very simlar <a href="https://hpssjellis.github.io/my-examples-of-webAI/z-mobilenet-copilot.html">z-mobilenet-copilot.html</a> <br>
 
 .
 

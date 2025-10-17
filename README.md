@@ -23,6 +23,47 @@ The github for this page is at    <a href="https://github.com/hpssjellis/my-exam
 
 
 
+## 2025 Chrome Built in AI projects
+
+
+
+### Everything but the kitchen sink
+
+Demo and index here https://hpssjellis.github.io/teach-chrome-built-in-ai-with-examples/
+
+
+Reminder chrome flags need to be set. The download is 4GB and your desktop or laptop needs about 22 GB free space. 
+
+Also these are not for mobile phones.
+
+
+
+The youtube playlist link is at 
+
+
+[https://www.youtube.com/watch?v=jkzfRUsQZgY&list=PL57Dnr1H_egsvfrvJdJdeVPaHVmy87S0i&index=5&pp=iAQB
+![remember-all-built-in-ai](https://img.youtube.com/vi/jkzfRUsQZgY/0.jpg)](https://www.youtube.com/watch?v=jkzfRUsQZgY&list=PL57Dnr1H_egsvfrvJdJdeVPaHVmy87S0i&index=5&pp=iAQB)
+
+
+
+.
+
+
+.
+
+
+
+
+
+.
+
+
+
+
+
+
+.
+
 |   LLM Prompt    |
 |-----------------|
 |Write a single file html application that uses tensorflowjs to load a mobilenet vision model and activates the webcam every 1000 ms to classify the image.  Give the option for the rear or front camera.This code should be as simple as possible using standard javascript async and await, no jQuery use getElementById and also no EventListeners just normal buttons with onClick. Any CSS should be minimal and used in tags with inline style.  Can you do that?|    
